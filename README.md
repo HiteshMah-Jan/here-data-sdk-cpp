@@ -203,4 +203,4 @@ For license details, see the <a href="https://github.com/heremaps/here-data-sdk-
 
 > #### Note
 > This project has Open Source Software dependencies that are downloaded and installed upon execution of the abovementioned installation commands. For further details, see the CMake configuration files included in the <a href="https://github.com/heremaps/here-data-sdk-cpp/tree/master/external" target="_blank">external</a> directory.
-trigger 2
+trigger 3
